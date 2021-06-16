@@ -1,0 +1,20 @@
+#                                      _                _
+#                                     | |              (_)
+#  ___   ___  _ __  ___   ___  _ __   | |  ___    __ _  _  _ __
+# / __| / __|| '__|/ _ \ / _ \| '_ \  | | / _ \  / _` || || '_ \
+# \__ \| (__ | |  |  __/|  __/| | | | | || (_) || (_| || || | | |
+# |___/ \___||_|   \___| \___||_| |_| |_| \___/  \__, ||_||_| |_|
+#                                                 __/ |
+#                                                |___/
+
+# Site: www.redescreen.com
+# Loja: loja.redescreen.com
+# Twitter: @ServidorScreen
+# Discord: discord.redescreen.com / discord.gg/screen
+
+Messages:
+  other-messages:
+    # Mensagem enviada ao jogador ao entrar no servidor.
+    message-login: "\n \n&cCalma aí! Aguarde para tentar se redirecionar neste servidor\n&ePor favor, aguarde a validação de sua conta.\n \n &e&l● AUTENTICAÇÃO!\n \n &7➥ &fUtilize &e/login <senha> &fpara se autenticar.\n \n"
+    # Mensagem enviada ao jogador quando o comando "/scoreboard" é utilizado.
+    scoreboard-message: "&cOps! Este comando será implementado em breve!"

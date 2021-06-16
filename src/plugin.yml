@@ -1,0 +1,17 @@
+main: br.com.screen.login.MainScreen
+
+name: ScreenLogin
+version: 1.0.2
+description: Plugin (in Java language) created in order to study/deepen the language, as well as joining a development team for Minecraft server systems, among them my favorite, Rede Screen.
+
+#depend: [TitleAPI]
+
+authors: [RedeScreen, LDNzera]
+website: www.redescreen.com
+
+commands:
+  scoreboard:
+    aliases: [scb, score]
+#    permission: scoreboard.show
+    permission-message: Você não possui permissões suficientes para utilizar este comando.
+    description: Use this command to show/hide your login scoreboard, used for server development questions.
